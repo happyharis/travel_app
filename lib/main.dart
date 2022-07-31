@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
                   style: TextStyle(fontWeight: FontWeight.bold),
                   children: [
                     TextSpan(
-                      text: ' Charlie',
+                      text: '\nCharlie',
                       style: TextStyle(fontWeight: FontWeight.normal),
                     ),
                   ]),
